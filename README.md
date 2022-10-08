@@ -6,7 +6,7 @@
 - 💬 My personal blog： https://shaoshaossm.github.io
 - 📫 How to reach me: 1600767556@QQ.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ My Projects: 谷粒学院
   -
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/eaaa13602729498794750c867379e70d.png)
